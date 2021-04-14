@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darky99
+- 👋 Hi, I’m Shubham Bhagat
 - 👀 I’m interested in python,javascript and blockchain.
 - 🌱 I’m currently learning blockchain technologies.
 - 💞️ I’m looking to collaborate on some intresting projects
